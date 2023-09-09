@@ -510,21 +510,21 @@ body{
 }
 
 /* Small devices (sm) */
-/* @media (max-width: 576px) {
+@media (max-width: 576px) {
    body{
-        transform: scale(0.4);
+        transform: scale(0.5);
         height: 100vh;
    }
-  } */
+  }
   
   /* Medium devices (md) */
-  /* @media (min-width: 577px) and (max-width: 768px) {
+  @media (min-width: 577px) and (max-width: 768px) {
     body{
         transform: scale(0.7);
         height: 100vh;
    }
   }
-   */
+  
   /* Large devices (lg) */
  /*  @media (min-width: 769px) and (max-width: 992px) {
     
