@@ -2,7 +2,7 @@ log 1 : red path is set
 log 1 : green path is set 
 log 1 : yellow path is set 
 log 1 : blue path is set 
-====================================
+===================================
 now its time for token movement 
 
 * given diffent id to differentiate between tokens(redtoken1,yellowToken1...)
